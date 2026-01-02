@@ -1,7 +1,5 @@
 About INJWARE injection method:
 
-About Injware Injection Method:
-
 Injware uses pattern scanning instead of static offsets or common runtime methods, 
 it greatly reduces crashes caused by outdated offsets and unsafe writes, 
 resulting in a more stable injection process.
