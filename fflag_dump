@@ -1,5 +1,1 @@
-About INJWARE injection method:
-
-Injware uses pattern scanning instead of static offsets 
-or common runtime methods, resulting in a
-better and stabilized injection.
+INJWARE use pattern scanning injection method
